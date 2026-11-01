@@ -1,0 +1,11 @@
+{
+  "name": "website-to-text-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node site-to-text.mjs"
+  },
+  "dependencies": {
+    "apify-client": "2.25.0"
+  }
+}

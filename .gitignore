@@ -1,0 +1,4 @@
+node_modules/
+site.txt
+__pycache__/
+.venv/
